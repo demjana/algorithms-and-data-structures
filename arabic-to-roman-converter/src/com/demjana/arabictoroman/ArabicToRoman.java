@@ -8,7 +8,7 @@ public class ArabicToRoman {
 
   public static void main(String[] args) {
     // Create a simple command line application
-    // which uses a class to convert Arabic numbers to Roman numbers.
+    // which convert Arabic numbers to Roman numbers.
     // Requirements: Support positive numbers up to 3999
 
     System.out.print("Type a positive whole number between 1 and 3999: ");
