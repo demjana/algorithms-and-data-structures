@@ -1,3 +1,5 @@
+Pattern.matches("^M{0,4}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$\\n", input);
+  
 M{0,4}
    0: <empty>  matched by M{0}
 1000: M        matched by M{1}
